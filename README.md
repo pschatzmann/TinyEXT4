@@ -4,7 +4,7 @@
 [![CMake](https://img.shields.io/badge/CMake-Supported-blue.svg)](https://cmake.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-TinyEXT4 is a header-only Arduino library for the Linux __ext2/ext3/ext4__ file system without journaling. It is written for microcontrollers. It never needs a buffer for a full file system block: all metadata goes through a small cache of 512-byte sectors, so a mounted file system uses only a few KB of RAM. Read support covers ext2, ext3 and ext4 images as created by `mkfs.ext4`. Write support creates, changes and deletes files and directories on ext4 and keeps all checksums valid, so `e2fsck` and the Linux kernel accept the result.
+__TinyEXT4__ is a header-only C++ Arduino library for the Linux __ext2/ext3/ext4__ file system without journaling. It is written __for microcontrollers__. It never needs a buffer for a full file system block: all metadata goes through a small cache of 512-byte sectors, so a mounted file system uses only a few KB of RAM. Read support covers ext2, ext3 and ext4 images as created by `mkfs.ext4`. Write support creates, changes and deletes files and directories on ext4 and keeps all checksums valid, so `e2fsck` and the Linux kernel accept the result.
 
 | | Read | Write |
 |---|---|---|
