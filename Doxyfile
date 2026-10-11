@@ -1,0 +1,16 @@
+PROJECT_NAME           = TinyEXT4
+PROJECT_BRIEF          = "Header only ext2/ext3/ext4 file system for microcontrollers"
+OUTPUT_DIRECTORY       = docs
+EXTRACT_ALL            = YES
+INPUT                  = README.md src
+FILE_PATTERNS          = *.h
+RECURSIVE              = YES
+EXCLUDE                = docs/html
+USE_MDFILE_AS_MAINPAGE = README.md
+HTML_OUTPUT            = html
+GENERATE_LATEX         = NO
+HAVE_DOT               = NO
+ENABLE_PREPROCESSING   = YES
+MACRO_EXPANSION        = YES
+PREDEFINED             = TINYEXT4_WRITE=1
+QUIET                  = YES
