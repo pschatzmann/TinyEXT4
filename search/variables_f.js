@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['sb_5fcsum_5foffset_0',['SB_CSUM_OFFSET',['../namespacetinyext4_1_1ext4.html#a71e23ab223caa1af887d79e1aadc2b1f',1,'tinyext4::ext4']]],
+  ['sb_5fdirty_1',['sb_dirty',['../classtinyext4_1_1Ext4FS.html#ae519e8a4cad392b758ce890663db0bde',1,'tinyext4::Ext4FS']]],
+  ['sb_5foffset_2',['SB_OFFSET',['../namespacetinyext4_1_1ext4.html#a0ae64c195685aa5be796dcb17e42642c',1,'tinyext4::ext4']]],
+  ['sector_3',['SECTOR',['../classtinyext4_1_1SectorCache.html#a35d49b311fcaac4df6ff72427901129f',1,'tinyext4::SectorCache']]],
+  ['sector_5fcount_4',['sector_count',['../classtinyext4_1_1FileIO.html#af832a3618fe27581ecd6c5991c0f9cff',1,'tinyext4::FileIO::sector_count'],['../classtinyext4_1_1RamIO.html#a408af2e15319549ea9ce7132e4e60e7d',1,'tinyext4::RamIO::sector_count']]],
+  ['sector_5fsize_5',['sector_size',['../classtinyext4_1_1FileIO.html#a6a32fc54a765c280c00f77b54141597b',1,'tinyext4::FileIO::sector_size'],['../classtinyext4_1_1RamIO.html#af0d61c5a2b12a91da325386991637d16',1,'tinyext4::RamIO::sector_size'],['../classtinyext4_1_1StreamIO.html#a1fb9dd81511147106cef5c5c04f7487a',1,'tinyext4::StreamIO::sector_size']]],
+  ['sectors_6',['sectors',['../classtinyext4_1_1RamIO.html#a3d6e00e669d1b7d9ce4e4f686792936f',1,'tinyext4::RamIO']]],
+  ['seed_7',['seed',['../structtinyext4_1_1Ext4FS_1_1PendingCsum.html#ab9896b58a7d9b79413fc7f0da28f49d9',1,'tinyext4::Ext4FS::PendingCsum']]],
+  ['size_8',['size',['../structtinyext4_1_1FileInfo.html#a1b6fcd680e6616818ab9da516d54f23a',1,'tinyext4::FileInfo::size'],['../structtinyext4_1_1Inode.html#aeddff737a73d241c201118d15be2fd19',1,'tinyext4::Inode::size']]],
+  ['spi_5ffast_9',['spi_fast',['../classtinyext4_1_1ArduinoSpiIO.html#aa8cee61b5da40dbde73f5efe3a9e465e',1,'tinyext4::ArduinoSpiIO']]],
+  ['spi_5fsettings_10',['spi_settings',['../classtinyext4_1_1ArduinoSpiIO.html#afe2a73c27d5251b661cf1eb25246ab3f',1,'tinyext4::ArduinoSpiIO']]],
+  ['spi_5fslow_11',['spi_slow',['../classtinyext4_1_1ArduinoSpiIO.html#a0910d7bb1fcc295c5b18cc2e38250317',1,'tinyext4::ArduinoSpiIO']]],
+  ['spi_5ftimeout_12',['spi_timeout',['../classtinyext4_1_1ArduinoSpiIO.html#a8dd69839178e370faa6f513908a0d49e',1,'tinyext4::ArduinoSpiIO']]],
+  ['stamp_13',['stamp',['../structtinyext4_1_1SectorCache_1_1Entry.html#aa606de87f0aba48ded95582ad8dcc27f',1,'tinyext4::SectorCache::Entry']]],
+  ['stat_14',['stat',['../classtinyext4_1_1ArduinoSpiIO.html#af52ce7b69999d34ed91b5a571fc4b8b9',1,'tinyext4::ArduinoSpiIO::stat'],['../classtinyext4_1_1NBDClientIO.html#a94f5dae2d613c250b4c21b381be919f8',1,'tinyext4::NBDClientIO::stat']]],
+  ['state_15',['state',['../classtinyext4_1_1Ext4FS.html#a460c7403a2edd08d23f235540b3c3a78',1,'tinyext4::Ext4FS']]],
+  ['state_5ferror_16',['STATE_ERROR',['../namespacetinyext4_1_1ext4.html#ae2b9d5cf1d628a3a2b5aa16b487b026a',1,'tinyext4::ext4']]],
+  ['state_5fvalid_17',['STATE_VALID',['../namespacetinyext4_1_1ext4.html#a729a218c96d49dfe12b5b8f67e8424ef',1,'tinyext4::ext4']]],
+  ['status_18',['status',['../classtinyext4_1_1FileIO.html#abb17f0e0fb5e1f68a709955b88425c82',1,'tinyext4::FileIO::status'],['../classtinyext4_1_1RamIO.html#a951964e1c047bc06391e803e9cd27e09',1,'tinyext4::RamIO::status'],['../classtinyext4_1_1StreamIO.html#a8163b4fec5202dbc99ae2550435e1131',1,'tinyext4::StreamIO::status']]]
+];

@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['read_5fonly_0',['read_only',['../classtinyext4_1_1Ext4FS.html#a262a07c9f57ea12c61ccfb03fa830b82',1,'tinyext4::Ext4FS::read_only'],['../classtinyext4_1_1FileIO.html#ae7c7be3080bc6a953df9d0d43c40882b',1,'tinyext4::FileIO::read_only']]],
+  ['reclen_1',['recLen',['../structtinyext4_1_1Ext4FS_1_1RawDirent.html#a0d31fdf7695c2bb794d16d18cac8fcb2',1,'tinyext4::Ext4FS::RawDirent']]],
+  ['reserved_5fgdt_2',['reserved_gdt',['../classtinyext4_1_1Ext4FS.html#afddeb89688e0202dcc6b6589a2659e7c',1,'tinyext4::Ext4FS']]],
+  ['ro_5fcompat_3',['ro_compat',['../classtinyext4_1_1Ext4FS.html#a8440d52672b448d854b6c47469382a74',1,'tinyext4::Ext4FS']]],
+  ['ro_5fcompat_5fbigalloc_4',['RO_COMPAT_BIGALLOC',['../namespacetinyext4_1_1ext4.html#a6f50401a29f96d53b5580310ae4c643f',1,'tinyext4::ext4']]],
+  ['ro_5fcompat_5fbtree_5fdir_5',['RO_COMPAT_BTREE_DIR',['../namespacetinyext4_1_1ext4.html#aa8b3b05dd84f8b38d8e9f4b7928714a2',1,'tinyext4::ext4']]],
+  ['ro_5fcompat_5fdir_5fnlink_6',['RO_COMPAT_DIR_NLINK',['../namespacetinyext4_1_1ext4.html#a3c01e35077b1209549411b27d78586bf',1,'tinyext4::ext4']]],
+  ['ro_5fcompat_5fextra_5fisize_7',['RO_COMPAT_EXTRA_ISIZE',['../namespacetinyext4_1_1ext4.html#a861a3c942b994457ce2a742abe7003e5',1,'tinyext4::ext4']]],
+  ['ro_5fcompat_5fgdt_5fcsum_8',['RO_COMPAT_GDT_CSUM',['../namespacetinyext4_1_1ext4.html#ac1fd820960b073da9e795f66d4c89d19',1,'tinyext4::ext4']]],
+  ['ro_5fcompat_5fhuge_5ffile_9',['RO_COMPAT_HUGE_FILE',['../namespacetinyext4_1_1ext4.html#ad02db035756a5ab08cb63d38ab466f49',1,'tinyext4::ext4']]],
+  ['ro_5fcompat_5flarge_5ffile_10',['RO_COMPAT_LARGE_FILE',['../namespacetinyext4_1_1ext4.html#ae759eae1a38d442798e6e31a31826c71',1,'tinyext4::ext4']]],
+  ['ro_5fcompat_5fmetadata_5fcsum_11',['RO_COMPAT_METADATA_CSUM',['../namespacetinyext4_1_1ext4.html#adea539f704eae7e01c97b027f6554c03',1,'tinyext4::ext4']]],
+  ['ro_5fcompat_5forphan_5fpresent_12',['RO_COMPAT_ORPHAN_PRESENT',['../namespacetinyext4_1_1ext4.html#ae9a1b69ffd4fe7f902f15d75b150173e',1,'tinyext4::ext4']]],
+  ['ro_5fcompat_5fquota_13',['RO_COMPAT_QUOTA',['../namespacetinyext4_1_1ext4.html#ad3775bfd31463c376dc38c22adc44f9c',1,'tinyext4::ext4']]],
+  ['ro_5fcompat_5fsparse_5fsuper_14',['RO_COMPAT_SPARSE_SUPER',['../namespacetinyext4_1_1ext4.html#adfd3e74cc3946a46df8559a380728aa8',1,'tinyext4::ext4']]],
+  ['ro_5fcompat_5fwrite_15',['RO_COMPAT_WRITE',['../namespacetinyext4_1_1ext4.html#a6371e9b0e5c9bc44034e2727af2f700e',1,'tinyext4::ext4']]],
+  ['root_5fino_16',['ROOT_INO',['../namespacetinyext4_1_1ext4.html#a1aed62807cc4fe86dca96e3268da5be1',1,'tinyext4::ext4']]]
+];

@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['gen_5fcounter_0',['gen_counter',['../classtinyext4_1_1Ext4FS.html#ae3e42edfe3ed8ec6c41d7a8ac3dc5e4d',1,'tinyext4::Ext4FS']]],
+  ['generation_1',['generation',['../structtinyext4_1_1Inode.html#af2458ee58d82f735ecacd3c9697c109e',1,'tinyext4::Inode']]],
+  ['get_2',['get',['../classtinyext4_1_1SectorCache.html#a9d1fc3762f06ad10205b1952516c47f4',1,'tinyext4::SectorCache']]],
+  ['get16_3',['get16',['../namespacetinyext4.html#a18e5739949e7ccc39109af0c54b24464',1,'tinyext4']]],
+  ['get32_4',['get32',['../namespacetinyext4.html#afa9b872e2b9211ab4079655777440243',1,'tinyext4']]],
+  ['get_5fblock_5fsize_5',['GET_BLOCK_SIZE',['../namespacetinyext4.html#ae54a70e8d78cac9643d5a6395622cb46aeb1bb43016ca77695718d0f96fae259a',1,'tinyext4']]],
+  ['get_5fsector_5fcount_6',['GET_SECTOR_COUNT',['../namespacetinyext4.html#ae54a70e8d78cac9643d5a6395622cb46a7e04370e12eb4148fbe511f59a1853db',1,'tinyext4']]],
+  ['get_5fsector_5fsize_7',['GET_SECTOR_SIZE',['../namespacetinyext4.html#ae54a70e8d78cac9643d5a6395622cb46a7b2d593070baea2b7ff2b6c8cf98e371',1,'tinyext4']]],
+  ['getclient_8',['getClient',['../classtinyext4_1_1NBDClientIO.html#a609f746dd3c6a8f1bd6ad8c0a68459ce',1,'tinyext4::NBDClientIO']]],
+  ['getlastwrite_9',['getLastWrite',['../classtinyext4_1_1File.html#a71abb8f0b422df4ff5f5ecede89fc74a',1,'tinyext4::File']]],
+  ['gid_10',['gid',['../structtinyext4_1_1Inode.html#ac0c7e63c922e1cac11d95d58bd2a78d1',1,'tinyext4::Inode::gid'],['../structtinyext4_1_1FileInfo.html#a4a360c17617d19d4b60adc84087285a2',1,'tinyext4::FileInfo::gid']]],
+  ['goallblk_11',['goalLblk',['../classtinyext4_1_1File.html#a4182f30f48e6393bfb0dff7f59192943',1,'tinyext4::File']]],
+  ['goalpblk_12',['goalPblk',['../classtinyext4_1_1File.html#a5f8ffa8ffbe6d455992da10e5e8da439',1,'tinyext4::File']]],
+  ['gpio_13',['gpio',['../classtinyext4_1_1ArduinoSpiExtIO.html#a96fa6390e060184ebda59e5d4a291f10',1,'tinyext4::ArduinoSpiExtIO']]],
+  ['group_14',['group',['../structtinyext4_1_1Ext4FS_1_1DirtyGroup.html#aa791b3ccfda6fbe3d6226dd04f21c137',1,'tinyext4::Ext4FS::DirtyGroup']]],
+  ['group_5fcount_15',['group_count',['../classtinyext4_1_1Ext4FS.html#ae5ef6fb3b9e56420be95920a6f14c051',1,'tinyext4::Ext4FS']]],
+  ['groupdesc_16',['GroupDesc',['../structtinyext4_1_1GroupDesc.html',1,'tinyext4']]],
+  ['groupfirstblock_17',['groupFirstBlock',['../classtinyext4_1_1Ext4FS.html#aca65e24c8e5f90bd5492a45658515a75',1,'tinyext4::Ext4FS']]],
+  ['growtree_18',['growTree',['../classtinyext4_1_1Ext4FS.html#a1a89246e810d9c9084716826ac042ebb',1,'tinyext4::Ext4FS']]]
+];

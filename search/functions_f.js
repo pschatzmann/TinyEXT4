@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['sectorsperblock_0',['sectorsPerBlock',['../classtinyext4_1_1Ext4FS.html#aa76490c0cb47338b9ad55d21eb13c013',1,'tinyext4::Ext4FS']]],
+  ['seek_1',['seek',['../classtinyext4_1_1File.html#a0702d8da9c0feebd6182c0e34fc0c2c3',1,'tinyext4::File']]],
+  ['seek_5fto_2',['seek_to',['../classtinyext4_1_1FileIO.html#ad90d5dceaa43422a509333f050fc070f',1,'tinyext4::FileIO']]],
+  ['send_5fcmd_3',['send_cmd',['../classtinyext4_1_1ArduinoSpiIO.html#aa87157688f829d861190b167e8354881',1,'tinyext4::ArduinoSpiIO']]],
+  ['set_5fcs_4',['set_cs',['../classtinyext4_1_1ArduinoSpiIO.html#a42980b74fe98962e0417703f34919023',1,'tinyext4::ArduinoSpiIO::set_cs()'],['../classtinyext4_1_1ArduinoSpiExtIO.html#a760b7e7e20492e16f0d85bc09e360053',1,'tinyext4::ArduinoSpiExtIO::set_cs()']]],
+  ['set_5fspi_5ffast_5',['set_spi_fast',['../classtinyext4_1_1ArduinoSpiIO.html#a4612ae11752920af28e1cd3a57acd165',1,'tinyext4::ArduinoSpiIO']]],
+  ['setallocator_6',['setallocator',['../classtinyext4_1_1Ext4FS.html#a26fff03fef64fc7dbb74910c10daa65e',1,'tinyext4::Ext4FS::setAllocator()'],['../classtinyext4_1_1SectorCache.html#a57b450beaa9390f62ebcdfaebcb6363f',1,'tinyext4::SectorCache::setAllocator()']]],
+  ['setbits_7',['setBits',['../classtinyext4_1_1Ext4FS.html#aca9ad549e3ccdb8ee0fd91a4c755ce01',1,'tinyext4::Ext4FS']]],
+  ['setcachesectors_8',['setCacheSectors',['../classtinyext4_1_1Ext4FS.html#aef43b6bdc13d5ecbf01b4f8ea548261b',1,'tinyext4::Ext4FS']]],
+  ['setname_9',['setName',['../classtinyext4_1_1File.html#a2ce79532b6efc280a32118776cb6e91c',1,'tinyext4::File']]],
+  ['setowner_10',['setOwner',['../classtinyext4_1_1Ext4FS.html#a35cc246a5d8f61d80e19592c04535935',1,'tinyext4::Ext4FS']]],
+  ['setpermissions_11',['setPermissions',['../classtinyext4_1_1Ext4FS.html#a6beb6bfba9d0c39d55821f3a85c91857',1,'tinyext4::Ext4FS']]],
+  ['setsize_12',['setSize',['../classtinyext4_1_1SectorCache.html#a69b709d14936d68440992de19c98346d',1,'tinyext4::SectorCache']]],
+  ['setspeed_13',['setSpeed',['../classtinyext4_1_1ArduinoSpiIO.html#ab9ad618cfdbd135ae335632f70ba8305',1,'tinyext4::ArduinoSpiIO']]],
+  ['setspi_14',['setspi',['../classtinyext4_1_1ArduinoSpiIO.html#afccf6cd55137f00404aa557f13e9932f',1,'tinyext4::ArduinoSpiIO::setSPI(SPIClass &amp;spi=SPI, uint32_t speedHz=20000000)'],['../classtinyext4_1_1ArduinoSpiIO.html#ae656a5b2e1445895ba6eccb519e9349b',1,'tinyext4::ArduinoSpiIO::setSPI(int cs=-1, SPIClass &amp;spi=SPI, uint32_t speedHz=20000000)'],['../classtinyext4_1_1ArduinoSpiExtIO.html#ad8359c0812c2b2a1b2ef5f30ccf4daf6',1,'tinyext4::ArduinoSpiExtIO::setSPI(int cs=-1, SPIClass &amp;spi=SPI, uint32_t speedHz=20000000)'],['../classtinyext4_1_1ArduinoSpiExtIO.html#afccf6cd55137f00404aa557f13e9932f',1,'tinyext4::ArduinoSpiExtIO::setSPI(SPIClass &amp;spi=SPI, uint32_t speedHz=20000000)'],['../classtinyext4_1_1ArduinoSpiExtIO.html#ae656a5b2e1445895ba6eccb519e9349b',1,'tinyext4::ArduinoSpiExtIO::setSPI(int cs=-1, SPIClass &amp;spi=SPI, uint32_t speedHz=20000000)']]],
+  ['settimecallback_15',['setTimeCallback',['../classtinyext4_1_1Ext4FS.html#aa00c6dbde72d7029566b1fb788872440',1,'tinyext4::Ext4FS']]],
+  ['size_16',['size',['../classtinyext4_1_1File.html#a9bfb0c97e48ffe7ea50ac7ed416accc4',1,'tinyext4::File::size()'],['../classtinyext4_1_1SectorCache.html#a27da2848976abe3784758696de42257c',1,'tinyext4::SectorCache::size()']]],
+  ['spi_5ftimer_5fon_17',['spi_timer_on',['../classtinyext4_1_1ArduinoSpiIO.html#adc2496ff336f4465d8c661236720dff9',1,'tinyext4::ArduinoSpiIO']]],
+  ['spi_5ftimer_5fstatus_18',['spi_timer_status',['../classtinyext4_1_1ArduinoSpiIO.html#affad30f60fe3f8cb351e96ce256d23a0',1,'tinyext4::ArduinoSpiIO']]],
+  ['spiselect_19',['spiselect',['../classtinyext4_1_1ArduinoSpiIO.html#a7642ea2bb99aa3d428999ee084fd81cc',1,'tinyext4::ArduinoSpiIO']]],
+  ['stat_20',['stat',['../classtinyext4_1_1Ext4FS.html#a4a2550c21860c9a3315b89b821c52493',1,'tinyext4::Ext4FS']]],
+  ['streamio_21',['StreamIO',['../classtinyext4_1_1StreamIO.html#a08f3be1a9ed4c16c24926278c1e48a84',1,'tinyext4::StreamIO']]],
+  ['sync_22',['sync',['../classtinyext4_1_1Ext4FS.html#a3f0ce7beb982540cb1e61b33c0b510ae',1,'tinyext4::Ext4FS']]],
+  ['syncgroups_23',['syncGroups',['../classtinyext4_1_1Ext4FS.html#ac75904938725bef82423495fe6fe913a',1,'tinyext4::Ext4FS']]]
+];

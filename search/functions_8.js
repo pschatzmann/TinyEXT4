@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['idxleaf_0',['idxLeaf',['../classtinyext4_1_1Ext4FS.html#a308b85a2e21c26974e174e125960a9f5',1,'tinyext4::Ext4FS']]],
+  ['incdirlinks_1',['incDirLinks',['../classtinyext4_1_1Ext4FS.html#ac614b3923d98d480dd3f4b1832ea4cbf',1,'tinyext4::Ext4FS']]],
+  ['initblockbitmap_2',['initBlockBitmap',['../classtinyext4_1_1Ext4FS.html#abcbdd6e6e14a34e092cf3eadeb2dfce3',1,'tinyext4::Ext4FS']]],
+  ['initinode_3',['initInode',['../classtinyext4_1_1Ext4FS.html#ad0a2b6863033ce855ebd1f0229e24de2',1,'tinyext4::Ext4FS']]],
+  ['initinodebitmap_4',['initInodeBitmap',['../classtinyext4_1_1Ext4FS.html#a7173748a3a7854ba1b53200d0e354ddc',1,'tinyext4::Ext4FS']]],
+  ['inodechecksum_5',['inodeChecksum',['../classtinyext4_1_1Ext4FS.html#ac656b10467be5c3babc86f9d9121dffb',1,'tinyext4::Ext4FS']]],
+  ['inodenumber_6',['inodeNumber',['../classtinyext4_1_1File.html#a172e502445eda70497b87b34394fdef0',1,'tinyext4::File']]],
+  ['inodeoffset_7',['inodeOffset',['../classtinyext4_1_1Ext4FS.html#a62d64bcdcbb6788c9bc5753f015f2d3c',1,'tinyext4::Ext4FS']]],
+  ['inodeseed_8',['inodeSeed',['../classtinyext4_1_1Ext4FS.html#aa25f0758aa47a10ba3aa03d960285a5d',1,'tinyext4::Ext4FS']]],
+  ['invalidate_9',['invalidate',['../classtinyext4_1_1SectorCache.html#a9d9f5a3b7bc0e64cea39648a5f288bff',1,'tinyext4::SectorCache']]],
+  ['isdir_10',['isDir',['../structtinyext4_1_1Inode.html#a8dfbacc7a9a655c12f5059b178ca2765',1,'tinyext4::Inode']]],
+  ['isdirectory_11',['isdirectory',['../structtinyext4_1_1DirEntry.html#aa9a9e3eccb75829abd33372b4716535e',1,'tinyext4::DirEntry::isDirectory()'],['../structtinyext4_1_1FileInfo.html#a4c4de17c9380ead1231dd40be30dd0f3',1,'tinyext4::FileInfo::isDirectory()'],['../classtinyext4_1_1File.html#a51a1ebf056a46a038774de56deae4546',1,'tinyext4::File::isDirectory()']]],
+  ['isfile_12',['isFile',['../structtinyext4_1_1FileInfo.html#acef7689c2d228add9e1fc1f754080a9a',1,'tinyext4::FileInfo']]],
+  ['isinline_13',['isInline',['../structtinyext4_1_1Inode.html#a0dcb78c898e4580f57a364e6a80219a2',1,'tinyext4::Inode']]],
+  ['ismounted_14',['isMounted',['../classtinyext4_1_1Ext4FS.html#aff62e2579a9852dcb356c2c330a0de3b',1,'tinyext4::Ext4FS']]],
+  ['isreadonly_15',['isReadOnly',['../classtinyext4_1_1Ext4FS.html#abe3ef65e2d49a3eceb118fd92cb3334b',1,'tinyext4::Ext4FS']]],
+  ['isreg_16',['isReg',['../structtinyext4_1_1Inode.html#a7ef160505018729e0447cc53e5565e9e',1,'tinyext4::Inode']]],
+  ['issymlink_17',['issymlink',['../structtinyext4_1_1FileInfo.html#a61649c76cec475b5cc0fcbfe487e7a7d',1,'tinyext4::FileInfo::isSymlink()'],['../structtinyext4_1_1Inode.html#a11cf62fa637cb52787f636565aee591f',1,'tinyext4::Inode::isSymlink()']]]
+];
